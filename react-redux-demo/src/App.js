@@ -11,7 +11,7 @@ function App() {
         <CakeContainer />
       </div>
     </Provider>
-  );
+  )
 }
 
 export default App;
